@@ -1,2 +1,4 @@
 # Python_MCA-SEM1
-Autor- Harish Nirmalkar
+👤Harish Nirmalkar
+📍Rungta International Skills University, Kohka,Bhilai
+📧harishnirmalkar2128@gmail.com 
