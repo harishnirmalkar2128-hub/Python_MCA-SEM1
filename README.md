@@ -11,6 +11,15 @@ This repository contains practical Python programs and projects completed as par
 
 ---
 
+## 📂 Repository Structure
+
+To make navigation easy, the repository is organized into these main folders:
+
+*   **📁 assignment/** – Contains all conceptual Python assignments and logic-building problem sheets given during the semester.
+*   **📁 Lab/** – Includes practical hands-on codes, executable scripts, and official lab manual programs.
+
+---
+
 ## 📁 What's Inside? (Key Concepts Covered)
 
 This repository is structured to cover foundational to advanced programming concepts:
