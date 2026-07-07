@@ -49,10 +49,11 @@ This repository is structured to cover foundational to advanced programming conc
 
 ---
 
-## 👤 About Me
+## ✍️ Let's Connect!
 
-*   **Name:** Harish Nirmalkar 🧑‍💻
-*   **College:** Rungta International Skills University, Kohka, Bhilai 📍
-*   **Motto:** *"Har din ek naya savera hai"* (New Day, New Learning) 🧠
-
-📩 **Let's Connect:** [harishnirmalkar2128@gmail.com](mailto:harishnirmalkar2128@gmail.com)
+| Profile Details | Links & Networks |
+| :--- | :--- |
+| **Name** 🧑‍💻 | Harish Nirmalkar |
+| **Education** 🎓 | MCA Student @ Rungta International Skills University |
+| **Let's Talk** 💬 | Open for collaborations, learning discussions, or just a friendly hi! |
+| **Professional** 💼 | [Connect on LinkedIn 🌐](https://linkedin.com/in/harish-nirmalkar-b23776394) |
